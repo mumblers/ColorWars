@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Colorwars</string>
+    <string name="title_activity_game">Color wars</string>
+</resources>
